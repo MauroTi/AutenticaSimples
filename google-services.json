@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "848668953363",
+    "firebase_url": "https://autenticasimples-4d46c.firebaseio.com",
+    "project_id": "autenticasimples-4d46c",
+    "storage_bucket": "autenticasimples-4d46c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848668953363:android:d8e5bb63e9caa4423368e6",
+        "android_client_info": {
+          "package_name": "com.example.autenticasimples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848668953363-jo1rg4s7fp0795jtoimgstg0fjbrrfcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.autenticasimples",
+            "certificate_hash": "2252ea31a434d55ff91db53595b2ff9d58937f39"
+          }
+        },
+        {
+          "client_id": "848668953363-8sit81pbaqsjion25l9k86l5usl4nevv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLZW-bsWTv_YJb0Qv0omBJgYaNgvPdU4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848668953363-8sit81pbaqsjion25l9k86l5usl4nevv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
